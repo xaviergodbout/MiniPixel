@@ -24,8 +24,6 @@ Before installing the MiniPixel theme, you must have a modded version of the sto
 - **Based on:** [Minimal theme by InfraBlue](https://plus.rg35xx.com/en/customization/stockos-themes/)
 - **Icons:** [1,300+ Free Pixel Icons](https://www.figma.com/community/file/1196864707579677521/1-300-free-pixel-icons-vector-pixel-icons-svg)
 
-## License
-This project is open-source. Feel free to modify and share, but please credit the original creators.
 
 ---
 Enjoy your new MiniPixel theme! 😊
