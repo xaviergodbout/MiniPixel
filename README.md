@@ -1,7 +1,8 @@
 # MiniPixel Theme for Anbernic RG35XX Family
 
 MiniPixel is a clean and minimalistic theme for modded stock OS on the Anbernic RG35XX family of devices. It is inspired by the **Minimal** theme by InfraBlue and features pixel-style icons for a cohesive retro aesthetic.
-![MiniPixel Preview](MiniPixel.png)
+
+<img src="MiniPixel.png" alt="MiniPixel Preview" width="600" />
 
 ## Installation Guide
 
